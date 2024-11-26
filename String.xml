@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assignment 3</string>
+    <string name="text_one">Welcome to MainActivity</string>
+    <string name="text_two">This is TextView 2</string>
+    <string name="text_three">This is TextView 3</string>
+    <string name="text_four">This is TextView 4</string>
+    <string name="text_five">This is TextView 5</string>
+</resources>
